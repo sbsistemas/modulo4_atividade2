@@ -1,0 +1,56 @@
+2024-02-01T11:21:09.489Z [petshop-api] error POST  - ProdutosRepository.getProduto is not a function
+2024-02-01T11:21:53.581Z [petshop-api] error POST  - Cannot read properties of undefined (reading 'findByPk')
+2024-02-01T11:23:56.293Z [petshop-api] error POST  - Cannot read properties of undefined (reading 'findAll')
+2024-02-01T11:25:57.986Z [petshop-api] error POST  - animal is not defined
+2024-02-01T11:27:07.559Z [petshop-api] error POST  - db.Produto.findPk is not a function
+2024-02-01T11:28:36.075Z [petshop-api] info POST /produto - []
+2024-02-01T11:30:10.317Z [petshop-api] info POST /produto - []
+2024-02-01T11:31:50.919Z [petshop-api] info POST /produto - {"codigo":"1234","descricao":"Produto numero 1234","preco":10,"updatedAt":"2024-02-01T11:31:50.900Z","createdAt":"2024-02-01T11:31:50.900Z"}
+2024-02-01T11:31:57.233Z [petshop-api] error POST  - Validation error
+2024-02-01T11:32:10.326Z [petshop-api] error POST  - Validation error
+2024-02-01T11:32:11.465Z [petshop-api] error POST  - Validation error
+2024-02-01T11:33:09.957Z [petshop-api] info POST /produto - [{"codigo":"1234","descricao":"Produto numero 1234","preco":10,"createdAt":"2024-02-01T11:31:50.900Z","updatedAt":"2024-02-01T11:33:09.937Z"}]
+2024-02-01T11:33:14.440Z [petshop-api] info POST /produto - [{"codigo":"1234","descricao":"Produto numero 1234","preco":10,"createdAt":"2024-02-01T11:31:50.900Z","updatedAt":"2024-02-01T11:33:14.433Z"}]
+2024-02-01T11:33:21.496Z [petshop-api] info POST /produto - {"codigo":"1235","descricao":"Produto numero 1235","preco":10,"updatedAt":"2024-02-01T11:33:21.488Z","createdAt":"2024-02-01T11:33:21.488Z"}
+2024-02-01T11:33:23.116Z [petshop-api] info POST /produto - [{"codigo":"1235","descricao":"Produto numero 1235","preco":10,"createdAt":"2024-02-01T11:33:21.488Z","updatedAt":"2024-02-01T11:33:23.103Z"}]
+2024-02-01T12:08:12.468Z [petshop-api] error POST  - Cannot set properties of undefined (setting 'message')
+2024-02-01T12:09:45.125Z [petshop-api] error POST  - Cannot set properties of undefined (setting 'message')
+2024-02-01T12:12:34.232Z [petshop-api] error POST  - Cannot set properties of undefined (setting 'message')
+2024-02-01T12:14:42.426Z [petshop-api] error POST  - Cannot set properties of undefined (setting 'message')
+2024-02-01T12:14:50.566Z [petshop-api] error POST  - Cannot set properties of undefined (setting 'message')
+2024-02-01T12:16:52.492Z [petshop-api] error POST  - Cannot set properties of undefined (setting 'message')
+2024-02-01T12:18:09.579Z [petshop-api] error POST  - Cannot set properties of undefined (setting 'message')
+2024-02-01T12:18:16.489Z [petshop-api] error POST  - Cannot set properties of undefined (setting 'message')
+2024-02-01T12:20:30.248Z [petshop-api] error POST  - Cannot set properties of undefined (setting 'message')
+2024-02-01T12:51:13.387Z [petshop-api] error POST  - Cannot create property 'ignore_whitespace' on boolean 'true'
+2024-02-01T12:52:02.929Z [petshop-api] error POST  - Unexpected token , in JSON at position 16
+2024-02-01T12:52:09.492Z [petshop-api] error POST  - Cannot create property 'ignore_whitespace' on boolean 'true'
+2024-02-01T12:54:43.899Z [petshop-api] error POST  - Código, Descrição e Preçosão obrigatórios
+2024-02-01T12:54:59.519Z [petshop-api] info POST /produto - {"codigo":"12","descricao":"fsdfsd","preco":10,"updatedAt":"2024-02-01T12:54:59.498Z","createdAt":"2024-02-01T12:54:59.498Z"}
+2024-02-01T13:03:44.029Z [petshop-api] error POST  - ProdutosRepository.getAnimal is not a function
+2024-02-01T15:16:58.160Z [petshop-api] info POST /produto - {"codigo":"13","descricao":"fsdfsd","preco":10,"updatedAt":"2024-02-01T15:16:58.137Z","createdAt":"2024-02-01T15:16:58.137Z"}
+2024-02-01T15:17:04.945Z [petshop-api] info POST /produto - [{"codigo":"13","descricao":"fsdfsd","preco":10,"createdAt":"2024-02-01T15:16:58.137Z","updatedAt":"2024-02-01T15:17:04.940Z"}]
+2024-02-01T15:17:07.378Z [petshop-api] info POST /produto - [{"codigo":"13","descricao":"fsdfsd","preco":10,"createdAt":"2024-02-01T15:16:58.137Z","updatedAt":"2024-02-01T15:17:07.366Z"}]
+2024-02-01T15:17:10.217Z [petshop-api] info POST /produto - [{"codigo":"13","descricao":"fsdfsd","preco":10,"createdAt":"2024-02-01T15:16:58.137Z","updatedAt":"2024-02-01T15:17:10.203Z"}]
+2024-02-01T15:17:12.326Z [petshop-api] info POST /produto - [{"codigo":"13","descricao":"fsdfsd","preco":10,"createdAt":"2024-02-01T15:16:58.137Z","updatedAt":"2024-02-01T15:17:12.312Z"}]
+2024-02-01T15:33:35.693Z [petshop-api] info GET /produto 
+2024-02-01T15:34:03.655Z [petshop-api] info GET /produto 
+2024-02-01T15:34:15.916Z [petshop-api] info POST /produto - [{"codigo":"13","descricao":"fsdfsd","preco":10,"createdAt":"2024-02-01T15:16:58.137Z","updatedAt":"2024-02-01T15:34:15.898Z"}]
+2024-02-01T15:34:16.900Z [petshop-api] info POST /produto - [{"codigo":"13","descricao":"fsdfsd","preco":10,"createdAt":"2024-02-01T15:16:58.137Z","updatedAt":"2024-02-01T15:34:16.887Z"}]
+2024-02-01T15:34:20.782Z [petshop-api] info GET /produto 
+2024-02-01T15:37:02.846Z [petshop-api] info GET /produto 
+2024-02-01T15:38:20.506Z [petshop-api] info GET /produto 
+2024-02-01T15:42:14.660Z [petshop-api] info POST /update - [{"codigo":"1234","descricao":"Produto numero 1234-alterado","preco":11.5,"createdAt":"2024-02-01T11:31:50.900Z","updatedAt":"2024-02-01T15:42:14.635Z"}]
+2024-02-01T15:42:20.185Z [petshop-api] info GET /produto 
+2024-02-01T15:42:33.532Z [petshop-api] info POST /update - []
+2024-02-01T15:43:29.457Z [petshop-api] info POST /update - []
+2024-02-01T15:44:13.834Z [petshop-api] info POST /update - {"codigo":"x1234","descricao":"Produto numero 1234-alterado","preco":11.5}
+2024-02-01T15:44:26.010Z [petshop-api] info POST /update - {"codigo":"x1234","descricao":"Produto numero 1234-alterado","preco":11.5}
+2024-02-01T15:49:32.937Z [petshop-api] info POST /update - undefined
+2024-02-01T15:49:38.515Z [petshop-api] info POST /update - {"codigo":"1234","descricao":"Produto numero 1234","preco":10}
+2024-02-01T15:49:40.150Z [petshop-api] info POST /update - {"codigo":"1234","descricao":"Produto numero 1234","preco":10}
+2024-02-01T15:49:41.311Z [petshop-api] info POST /update - {"codigo":"1234","descricao":"Produto numero 1234","preco":10}
+2024-02-01T15:49:45.892Z [petshop-api] info GET /produto 
+2024-02-01T15:49:55.802Z [petshop-api] info POST /update - undefined
+2024-02-01T15:51:02.528Z [petshop-api] info GET /produto 
+2024-02-01T15:51:10.960Z [petshop-api] info POST /delete - 12
